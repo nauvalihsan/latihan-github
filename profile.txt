@@ -1,3 +1,4 @@
 Nama: Nauval
 Kelas: LL01
 Hobi: Nonton Anime
+Skill: Git dasar
